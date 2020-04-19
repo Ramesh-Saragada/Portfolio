@@ -17,3 +17,20 @@ canvas {
 	text-align: center;
 	pointer-events: none;
 }
+
+#three-container {
+	align:left;
+	border:none;
+	margin:-10px -15px;
+	top:-30px;
+	max-height: 100px;
+height: 100%;
+}
+#three-container{
+	width:100%;
+	height:100%;
+	padding:0;
+	margin:0;
+	overflow:hidden;
+	
+}
